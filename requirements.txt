@@ -1,5 +1,5 @@
 scikit-learn==1.0.1
-scikit-image==0.22.0
+scikit-image
 joblib
 pandas
 matplotlib
